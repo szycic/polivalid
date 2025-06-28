@@ -6,7 +6,7 @@
 
     <groupId>com.szycic</groupId>
     <artifactId>polivalid</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <name>PoliValid</name>
     <description>A simple Java library for validating Polish identification numbers such as PESEL, IBAN, NIP, REGON, and KRS</description>
